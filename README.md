@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/akevinlee/akevinlee.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I have 25 years of experience in defining, architecting and implementing software technology solutions. 
+Although a Technologist at heart my real passion is in applying technology to help solve real world 
+business problems. On this site you will find links and downloads to templates, books, presentations, 
+code and other collateral that I have created over the years.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
 
-### Markdown
+- Ring2Park Online - a Spring MVC/Webflow reference application.
+- Digital Parking Solutions - a HTML 5 / CSS 3 reference application (also makes use of Less) [source on github]
+- The Buildmeister - a portal for developers involved in the build and release management process.
+- HappyBank - a Java reference application primarily used for testing an enterprise build process using Apache Ant. 
+- clearantlib - a library of tasks for integrating ClearCase and Apache Ant.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Articles, Books and Whitepapers
 
-```markdown
-Syntax highlighted code block
+- [Book] The Buildmeister's Guide - Achieving Agile Software Delivery.
+- [Book] Apache Ant - The Buildmeister's Guide.
+- [Book] IBM Rational ClearCase, Ant and CruiseControl - The Java Developer's Guide to Accelerating and Automating the Build Process. 
+- [Whitepaper] Agile SCM in the Enterprise.
+- [Article] Agile SCM and the IBM Rational Toolset.
+- [Article] Accelerate and automate the build process with IBM Rational ClearCase and Ant.
+- [Article] Realizing Continuous Integration.
 
-# Header 1
-## Header 2
-### Header 3
+### Documents and Templates
 
-- Bulleted
-- List
+ - ALM Governance Framework Diagram [Visio Diagram] [PDF] - an example of how application development, project management and service management processes can interrelate to provide a governance framework.
+ - ALM Capability Assessment [Excel] - a spreadsheet that you can use to establish your own current and future requirements for ALM.
+ - Vision and Scope Document [PDF] - an example of a Vision and Scope document for a reference application.
 
-1. Numbered
-2. List
+### Presentations
 
-**Bold** and _Italic_ and `Code` text
+ - Breaking Down the Wall - Overcoming the handover from development to operations. [PDF] 
+ - Release Management - Crossing the Chasm of Application Deployment. [PDF]
+ - Global Development & Delivery - The politics, patterns and process of implementing distributed software configuration management. [PDF]
+ - Agile SCM - Realising Continuous Integration. [PDF]
+ - Accelerating and Automating the Build Process with IBM Rational ClearCase and Apache Ant. [PDF]
+ -Automating Software Release Management with Rational ClearCase and ClearQuest [PDF]
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akevinlee/akevinlee.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
