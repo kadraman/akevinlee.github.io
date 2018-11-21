@@ -1,14 +1,11 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
-
 
 Work experience
 ======
@@ -23,19 +20,19 @@ Work experience
 
 ### IBM (September 2006 - December 2007 )
  - _Solution Architect_
- - Responsible for pre-sales support, business value assurance, adoptionstrategy, consulting and implementation of large scale software developmentenvironments. Planned and managed complex multi-product, multi-regionEnterprise software solution bids ($1m+) for large development organizations. Led efforts to define Technical Infrastructure to implement distributed softwaredevelopment capability in large European clients.
+ - Responsible for pre-sales support, business value assurance, adoption strategy, consulting and implementation of large scale software developmentenvironments. Planned and managed complex multi-product, multi-regionEnterprise software solution bids ($1m+) for large development organizations. Led efforts to define Technical Infrastructure to implement distributed softwaredevelopment capability in large European clients.
 
 ### IBM (August 2003 - August 2006) 
  - _Senior Technical Sales Specialist_
- - Responsible for pre-sales support, on-site consulting, technical accountmanagement, demonstrations, implementation planning and delivery forfinancial service organisations. Specialist in Configuration, Change and Release Management, Java/J2EE andDistributed Development.
+ - Responsible for pre-sales support, on-site consulting, technical account management, demonstrations, implementation planning and delivery forfinancial service organisations. Specialist in Configuration, Change and Release Management, Java/J2EE andDistributed Development.
 
 ### Rational Software (January 2000 - July 2003)
  - _Technical Consultant_
- - Responsible for pre-sales support, on-site consulting, technical accountmanagement, implementation planning and delivery. Software DevelopmentLifecycle process and tools specialist. Implemented software development processes and tools for small and largescale development environments
+ - Responsible for pre-sales support, on-site consulting, technical account management, implementation planning and delivery. Software DevelopmentLifecycle process and tools specialist. Implemented software development processes and tools for small and largescale development environments
 
 ### Ericsson (August 1999 - December 2000)
  - _Build and Configuration Manager_
- - Responsible for Configuration and Change Management toolset definition,deployment, training and support for global organisational roll out (based onRational ClearCase, ClearQuest and MultiSite). Managed a team of staff responsible for rolling out a Build and ConfigurationManagement solution across the organisation.
+ - Responsible for Configuration and Change Management toolset definition, deployment, training and support for global organisational roll out (based onRational ClearCase, ClearQuest and MultiSite). Managed a team of staff responsible for rolling out a Build and ConfigurationManagement solution across the organisation.
 
 ### Siemens (March 1997 - July 1999)
  - _Build/Release Team Lead_
@@ -69,6 +66,6 @@ Talks
 Education
 ======
 
-#####University of East Anglia
+### University of East Anglia
 Bsc, Computer Science · (1990 - 1993)
 
