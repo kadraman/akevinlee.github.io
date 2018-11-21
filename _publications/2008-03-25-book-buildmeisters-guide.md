@@ -1,7 +1,7 @@
 ---
 title: "The Buildmeister's Guide - Achieving Agile Software Delivery"
 collection: publications
-permalink: /publication/2008-03-25-paper-title-number-2
+permalink: /publication/2008-03-25-book-buildmeisters-guide
 excerpt: 'This book is about how to implement, refactor and approve your build process.'
 date: 2008-03-25
 venue: 'Lulu Press'

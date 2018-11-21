@@ -1,7 +1,7 @@
 ---
 title: "IBM Rational ClearCase, Ant, and CruiseControl"
 collection: publications
-permalink: /publication/2006-06-03-paper-title-number-1
+permalink: /publication/2006-06-03-book-clearcase-ant-cruisecontrol
 excerpt: 'This book is about optimizing your entire Java build and release process using popular commercial and open source tools.'
 date: 2006-06-03
 venue: 'IBM Press'

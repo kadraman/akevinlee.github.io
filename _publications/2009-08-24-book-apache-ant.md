@@ -1,7 +1,7 @@
 ---
 title: "Apache Ant - The Buildmeister's Guide"
 collection: publications
-permalink: /publication/2008-08-24-paper-title-number-3
+permalink: /publication/2008-08-24-book-apache-ant
 excerpt: 'This book is about implementing a Java based build process using Apache Ant.'
 date: 2009-08-24
 venue: 'Lulu Press'
