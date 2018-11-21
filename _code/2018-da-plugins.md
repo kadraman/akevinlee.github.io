@@ -1,5 +1,5 @@
 ---
-title: "Deployment Automation Plugins"
+title: "Micro Focus Deployment Automation Plugins"
 collection: code
 type: "Plugin"
 permalink: /code/2018-da-plugins
@@ -8,13 +8,10 @@ date: 2018-01-01
 location: "London, UK"
 ---
 
-This is a collection of plugins for [Micro Focus Deployment Automation]()
+This is a collection of plugins for [Micro Focus Deployment Automation](https://www.microfocus.com/products/deployment-automation/)
 
-Plugins 1
-======
+##### MicroFocus UFT
+Micro Focus Unified Functional Testing (UFT) Plugin [Visit on GitHub](https://github.com/sda-community-plugins/MicroFocus-UFT)
 
-Plugin 2
-======
-
-Plugin 3
-======
+##### Amazon EBS
+Amazon Elastic Beanstalk (EBS) Plugin [Visit on GitHub](https://github.com/sda-community-plugins/AmazonEBS)
