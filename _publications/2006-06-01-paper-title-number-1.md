@@ -1,16 +1,15 @@
 ---
-title: "ClearCase, Ant and CruiseControl"
+title: "Paper Title Number 1"
 collection: publications
-permalink: /publication/2006-06-01-paper-title-number-1
-excerpt: 'The Java Developer's Guide to Accelerating and Automating the Build Process.'
-date: 2006-10-01
-venue: 'IBM Press'
-paperurl: 'https://www.amazon.com/IBM-Rational-ClearCase-Ant-CruiseControl/dp/0321356993/'
-citation: 'Kevin A. Lee. (2006). &quot;ClearCase, Ant and CruiseControl.&quot; <i>IBM Press</i>'
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-Optimize your entire Java build and release process with ClearCase(R), Ant, and CruiseControl.
-Better builds mean better software. Effective, regular build processes accelerate development and 
-improve quality, helping you identify small problems early, before they grow complex and costly 
-to fix. Now, there's a step-by-step guide to creating Java build processes that are right for your
-organization. Leading build and release management expert Kevin A. Lee introduces best practices 
-for integrating and using three exceptionally powerful and recognized industry standard tools.
+This paper is about the number 1. The number 2 is left for future work.
+
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
