@@ -1,9 +1,9 @@
 ---
 title: "The Buildmeister's Guide - Achieving Agile Software Delivery"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2008-03-25-paper-title-number-2
 excerpt: 'This book is about how to implement, refactor and approve your build process.'
-date: 2010-10-01
+date: 2008-03-25
 venue: 'Lulu Press'
 paperurl: 'http://www.lulu.com/shop/kevin-a-lee/the-buildmeisters-guide-achieving-agile-software-delivery/paperback/product-2586734.html'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
