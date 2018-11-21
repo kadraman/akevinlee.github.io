@@ -3,7 +3,7 @@ title: "Micro Focus Release Control Plugins"
 collection: code
 type: "Plugin"
 permalink: /code/2018-rlc-plugins
-venue: "Github"
+venue: "GitHub"
 date: 2018-01-01
 location: "London, UK"
 ---
