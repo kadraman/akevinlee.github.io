@@ -4,7 +4,7 @@ collection: talks
 type: "Webinar"
 permalink: /presentations/2018-11-21-devsecops-webinar
 venue: "Webinar"
-date: 2012-11-21
+date: 2019-11-21
 location: "London, UK"
 ---
 

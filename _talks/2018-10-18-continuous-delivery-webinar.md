@@ -1,5 +1,5 @@
 ---
-title: "Continuous Delivery Pipelines Automating the value stream through Continuous Release"
+title: "Continuous Delivery Pipelines: Automating the value stream through Continuous Release"
 collection: talks
 type: "Webinar"
 permalink: /presentations/2018-10-18-continuous-delivery-webinar
