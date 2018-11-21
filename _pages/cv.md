@@ -9,10 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+
 Work experience
 ======
 
-### Micro Focus (May 2016 - Present
+### Micro Focus (May 2016 - Present)
  - _DevOps Solutions Architect_
  - Response for technical pre-sales, solutions consulting and technical account management of Micro Focus's DevOps solutions.
 
