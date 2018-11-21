@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+{% for post in site.templates %}
+  {% include archive-single.html %}
+{% endfor %}
+
 ### ALM Templates
 
  * ALM Governance Framework Diagram [Visio](/files/ALM-Governance-Framework.vsd) [PDF](/files/ALM-Governance-Framework.pdf) - an example of how application development, project management and service management processes can interrelate to provide a governance framework.
