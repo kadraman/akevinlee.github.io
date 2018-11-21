@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2006-06-01-paper-title-number-1
 excerpt: 'The Java Developer's Guide to Accelerating and Automating the Build Process.'
 date: 2006-10-01
-venue: 'Amazon'
+venue: 'IBM Press'
 paperurl: 'https://www.amazon.com/IBM-Rational-ClearCase-Ant-CruiseControl/dp/0321356993/'
-citation: 
+citation: 'Kevin A. Lee. (2006). &quot;ClearCase, Ant and CruiseControl.&quot; <i>IBM Press</i>'
 ---
 Optimize your entire Java build and release process with ClearCase(R), Ant, and CruiseControl.
 Better builds mean better software. Effective, regular build processes accelerate development and 
