@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="57d7743c-bf6e-4d34-819a-48b68ebc7315" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2006-06-03-book-clearcase-ant-cruisecontrol.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2006-06-03-book-clearcase-ant-cruisecontrol.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/2008-03-25-book-buildmeisters-guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2008-03-25-book-buildmeisters-guide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/2009-08-24-book-apache-ant.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2009-08-24-book-apache-ant.md" afterDir="false" />
     </list>
     <list id="b7627a4b-6eb1-462e-b84e-50013622ebf9" name="IntelliJ" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +46,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="47" />
-          <entry key="md" value="3548" />
+          <entry key="md" value="3692" />
           <entry key="txt" value="97" />
           <entry key="yml" value="528" />
         </counts>
@@ -53,7 +54,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="47" />
-          <entry key="Markdown" value="3548" />
+          <entry key="Markdown" value="3692" />
           <entry key="PLAIN_TEXT" value="97" />
           <entry key="YAML" value="528" />
         </counts>
@@ -66,15 +67,15 @@
         <entry file="file://$PROJECT_DIR$/_publications/2008-03-25-book-buildmeisters-guide.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="51">
-                <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+              <first_editor relative-caret-position="136">
+                <caret line="8" column="104" selection-start-line="8" selection-start-column="104" selection-end-line="8" selection-end-column="104" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_publications/2006-06-03-book-clearcase-ant-cruisecontrol.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -86,12 +87,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_publications/2009-08-24-book-apache-ant.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="51">
-                <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+              <first_editor relative-caret-position="136">
+                <caret line="8" column="116" selection-start-line="8" selection-start-column="116" selection-end-line="8" selection-end-column="116" />
               </first_editor>
               <second_editor />
             </state>
@@ -128,9 +129,9 @@
         <option value="$PROJECT_DIR$/_publications/2009-08-24-paper-title-number-3.md" />
         <option value="$PROJECT_DIR$/_publications/2008-03-25-paper-title-number-2.md" />
         <option value="$PROJECT_DIR$/_publications/2006-06-03-paper-title-number-1.md" />
+        <option value="$PROJECT_DIR$/_publications/2006-06-03-book-clearcase-ant-cruisecontrol.md" />
         <option value="$PROJECT_DIR$/_publications/2008-03-25-book-buildmeisters-guide.md" />
         <option value="$PROJECT_DIR$/_publications/2009-08-24-book-apache-ant.md" />
-        <option value="$PROJECT_DIR$/_publications/2006-06-03-book-clearcase-ant-cruisecontrol.md" />
       </list>
     </option>
   </component>
@@ -223,7 +224,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542797701796" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542797966356" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -287,7 +288,7 @@
       <updated>1542730349499</updated>
       <workItem from="1542730350727" duration="2505000" />
       <workItem from="1542742655804" duration="25000" />
-      <workItem from="1542787937149" duration="9753000" />
+      <workItem from="1542787937149" duration="10005000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Structure">
       <created>1542730679466</created>
@@ -436,11 +437,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542797487126</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Working on Publications">
+      <created>1542797722222</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1542797722222</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12283000" />
+    <option name="totallyTimeSpent" value="12535000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
@@ -695,11 +703,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_publications/2006-06-03-book-clearcase-ant-cruisecontrol.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="111" selection-start-line="8" selection-start-column="111" selection-end-line="8" selection-end-column="111" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_publications/2008-03-25-book-buildmeisters-guide.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="104" selection-start-line="8" selection-start-column="104" selection-end-line="8" selection-end-column="104" />
           </first_editor>
           <second_editor />
         </state>
@@ -708,18 +726,8 @@
     <entry file="file://$PROJECT_DIR$/_publications/2009-08-24-book-apache-ant.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_publications/2006-06-03-book-clearcase-ant-cruisecontrol.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
           <first_editor relative-caret-position="136">
-            <caret line="8" column="111" selection-start-line="8" selection-start-column="111" selection-end-line="8" selection-end-column="111" />
+            <caret line="8" column="116" selection-start-line="8" selection-start-column="116" selection-end-line="8" selection-end-column="116" />
           </first_editor>
           <second_editor />
         </state>
