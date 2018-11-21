@@ -17,7 +17,7 @@ and deploying modern software applications. Through practical experience I becam
 of articles and books on the topic - see my [publications](/publications) page.  
 
 I am currently helping companies implement **Enterprise DevOps** - a natural extension of my Build and Release experience but moving more
-into **Operations**, **Infrastructure** and modern development shifts such as **Cloud** and **Containerization**.
+into Operations (**Infrastructure as Code**, **APM**) and modern development shifts such as **Cloud** and **Containerization**.
 
 I have worked for many large IT companies (_GEC_, _Siemens_, _Ericsson_, _Rational Software_, _IBM_, _Micro Focus_) and so I am well versed in the 
 challenges faced by large _Enterprise_ organisations adapting to the pace of change of the modern application development lifecycle. Being based in the UK, 

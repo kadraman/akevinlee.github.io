@@ -1,16 +1,16 @@
 ---
 layout: archive
-title: "Talks and presentations"
-permalink: /talks/
+title: "Presentations"
+permalink: /presentations/
 author_profile: true
 ---
 
 {% if site.talkmap_link == true %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a presentation!</a></p>
 
 {% endif %}
 
-{% for post in site.talks reversed %}
+{% for post in site.presentations reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
