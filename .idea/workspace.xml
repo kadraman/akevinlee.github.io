@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="57d7743c-bf6e-4d34-819a-48b68ebc7315" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2006-06-01-paper-title-number-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2006-06-01-paper-title-number-1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2010-10-01-paper-title-number-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2010-10-01-paper-title-number-2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2009-08-24-paper-title-number-3.md" afterDir="false" />
     </list>
     <list id="b7627a4b-6eb1-462e-b84e-50013622ebf9" name="IntelliJ" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,7 +45,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="47" />
-          <entry key="md" value="3231" />
+          <entry key="md" value="3249" />
           <entry key="txt" value="97" />
           <entry key="yml" value="528" />
         </counts>
@@ -54,7 +53,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="47" />
-          <entry key="Markdown" value="3231" />
+          <entry key="Markdown" value="3249" />
           <entry key="PLAIN_TEXT" value="97" />
           <entry key="YAML" value="528" />
         </counts>
@@ -63,7 +62,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_publications/2010-10-01-paper-title-number-2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -87,12 +86,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-3.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_publications/2009-08-24-paper-title-number-3.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="68">
-                <caret line="4" column="85" selection-start-line="4" selection-start-column="85" selection-end-line="4" selection-end-column="85" />
+              <first_editor relative-caret-position="51">
+                <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
               </first_editor>
               <second_editor />
             </state>
@@ -126,6 +125,7 @@
         <option value="$PROJECT_DIR$/_publications/2006-06-01-paper-title-number-1.md" />
         <option value="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-3.md" />
         <option value="$PROJECT_DIR$/_publications/2010-10-01-paper-title-number-2.md" />
+        <option value="$PROJECT_DIR$/_publications/2009-08-24-paper-title-number-3.md" />
       </list>
     </option>
   </component>
@@ -140,7 +140,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -218,7 +218,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542796697509" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542796885027" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -282,7 +282,7 @@
       <updated>1542730349499</updated>
       <workItem from="1542730350727" duration="2505000" />
       <workItem from="1542742655804" duration="25000" />
-      <workItem from="1542787937149" duration="8749000" />
+      <workItem from="1542787937149" duration="8937000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Structure">
       <created>1542730679466</created>
@@ -403,17 +403,24 @@
       <option name="project" value="LOCAL" />
       <updated>1542796477389</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Working on Publications">
+      <created>1542796720653</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1542796720653</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11279000" />
+    <option name="totallyTimeSpent" value="11467000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23400854" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3129103" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -427,7 +434,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.33296943" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32972974" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -672,21 +679,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-3.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="85" selection-start-line="4" selection-start-column="85" selection-end-line="4" selection-end-column="85" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_publications/2010-10-01-paper-title-number-2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="68">
             <caret line="4" column="86" selection-start-line="4" selection-start-column="86" selection-end-line="4" selection-end-column="86" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_publications/2009-08-24-paper-title-number-3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
           </first_editor>
           <second_editor />
         </state>

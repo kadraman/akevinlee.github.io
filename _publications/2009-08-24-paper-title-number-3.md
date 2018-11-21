@@ -1,9 +1,9 @@
 ---
 title: "Apache Ant - The Buildmeister's Guide"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2008-08-24-paper-title-number-3
 excerpt: 'This book is about implementing a Java based build process using Apache Ant.'
-date: 2015-10-01
+date: 2009-08-24
 venue: 'Lulu Press'
 paperurl: 'http://www.lulu.com/shop/kevin-a-lee/apache-ant-the-buildmeisters-guide-third-edition/paperback/product-5331941.html'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
