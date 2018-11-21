@@ -1,7 +1,7 @@
 ---
 title: "Release Control Plugins"
 collection: code
-type: "Plugins"
+type: "Plugin"
 permalink: /code/2018-rlc-plugins
 venue: "Github"
 date: 2018-01-01

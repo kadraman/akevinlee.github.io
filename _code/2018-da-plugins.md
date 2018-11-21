@@ -1,7 +1,7 @@
 ---
 title: "Deployment Automation Plugins"
 collection: code
-type: "Plugins"
+type: "Plugin"
 permalink: /code/2018-da-plugins
 venue: "Github"
 date: 2018-01-01
