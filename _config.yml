@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "About Me"
-  avatar           : "KAL-vsmall.png"
+  avatar           : "KAL-vsmall.jpg"
   bio              : "DevOps, Build and Release Expert"
   location         : "London, UK"
   employer         : "Micro Focus"
@@ -99,7 +99,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://uk.linkedin.com/in/kevinalee"
+  linkedin         : "kevinalee"
   orcid            :
   pinterest        :
   soundcloud       :
