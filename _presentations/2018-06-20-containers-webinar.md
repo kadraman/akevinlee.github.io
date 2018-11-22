@@ -1,6 +1,6 @@
 ---
 title: "Microservices, Containers, Clusters and PaaS: What uninitiated really need to know!"
-collection: talks
+collection: presentations
 type: "Webinar"
 permalink: /presentations/2018-06-20-containers-webinar
 venue: "Webinar"

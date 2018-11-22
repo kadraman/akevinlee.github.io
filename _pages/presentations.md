@@ -1,8 +1,10 @@
 ---
 layout: archive
-title: "Talks"
-permalink: /talks/
+title: "Presentations"
+permalink: /presentations/
 author_profile: true
+redirect_from: 
+  - /talks/
 ---
 
 {% if site.talkmap_link == true %}
@@ -11,6 +13,6 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
+{% for post in site.presentations reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}

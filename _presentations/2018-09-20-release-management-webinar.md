@@ -1,6 +1,6 @@
 ---
 title: "Release Management for the multi-modal Enterprise"
-collection: talks
+collection: presentations
 type: "Webinar"
 permalink: /presentations/2018-09-20-release-management-webinar
 venue: "Webinar"

@@ -1,6 +1,6 @@
 ---
 title: "DevSecOps: How to integrate Security & Compliance into your Continuous Delivery pipelines"
-collection: talks
+collection: presentations
 type: "Webinar"
 permalink: /presentations/2018-11-21-devsecops-webinar
 venue: "Webinar"

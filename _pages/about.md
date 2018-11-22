@@ -24,7 +24,7 @@ challenges faced by large _Enterprise_ organisations adapting to the pace of cha
 I have also worked extensively with _Financial Service_ organisations who have their own innate challenges of innovating, developing and deploying
 faster whilst still retaining the level of goverance and control that their industry requires.
 
-On this site you will find links and downloads to [templates](/templates), [publications](/publications), [talks](/talks), [code](/code) 
+On this site you will find links and downloads to [publications](/publications), [presentations](/presentations), [templates](/templates) and [code](/code) 
 and other collateral that I have created over the years. 
 
 Please feel free to contact me via any of the channels over on the left.
