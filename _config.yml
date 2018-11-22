@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Kevin A. Lee's Website"
+title                    : "Kevin A. Lee"
 title_separator          : "-"
 name                     : &name "Kevin A. Lee"
 description              : &description "DevOps, Build and Release Expert"
@@ -222,10 +222,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _template
+  # _templates
   - scope:
       path: ""
-      type: template
+      type: templates
     values:
       layout: single
       author_profile: true

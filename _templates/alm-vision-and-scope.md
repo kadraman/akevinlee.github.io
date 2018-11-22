@@ -1,7 +1,7 @@
 ---
 title: "Vision and Scope Document"
 excerpt: "An example of a Vision and Scope document for a reference application"
-collection: template
+collection: templates
 ---
 
 An example of a Vision and Scope document for a reference application.<br/>

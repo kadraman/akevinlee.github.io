@@ -10,4 +10,4 @@ location: "London, UK"
 
 Release Management for the multi-modal Enterprise
 
-[Download PDF](/files/Micro%20Focus%20-%20Release%20Management%20for%20the%20multi-modal%20Enterprise.pdf)
+[Watch Recording]() | [Download PDF](/files/Micro%20Focus%20-%20Release%20Management%20for%20the%20multi-modal%20Enterprise.pdf)
