@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Presentations"
+title: "Presentations and Talks"
 permalink: /presentations/
 author_profile: true
 redirect_from: 
@@ -13,6 +13,6 @@ redirect_from:
 
 {% endif %}
 
-{% for post in site.presentations reversed %}
+{% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
