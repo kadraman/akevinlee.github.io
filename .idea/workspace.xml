@@ -3,15 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="57d7743c-bf6e-4d34-819a-48b68ebc7315" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_code/2018-da-plugins.md" beforeDir="false" afterPath="$PROJECT_DIR$/_code/2018-da-plugins.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_talks/2018-06-20-containers-webinar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2018-06-20-containers-webinar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_talks/2018-09-20-release-management-webinar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2018-09-20-release-management-webinar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_talks/2018-10-18-continuous-delivery-webinar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2018-10-18-continuous-delivery-webinar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_talks/2018-11-21-devsecops-webinar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2018-11-22-devsecops-webinar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_templates/alm-capability-assessment.md" beforeDir="false" afterPath="$PROJECT_DIR$/_templates/alm-capability-assessment.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_templates/alm-governance-template.md" beforeDir="false" afterPath="$PROJECT_DIR$/_templates/alm-governance-template.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_templates/alm-vision-and-scope.md" beforeDir="false" afterPath="$PROJECT_DIR$/_templates/alm-vision-and-scope.md" afterDir="false" />
     </list>
     <list id="b7627a4b-6eb1-462e-b84e-50013622ebf9" name="IntelliJ" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,31 +17,31 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="3" />
-          <entry key="md" value="1020" />
+          <entry key="md" value="1074" />
           <entry key="txt" value="19" />
-          <entry key="yml" value="28" />
+          <entry key="yml" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="3" />
-          <entry key="Markdown" value="1020" />
+          <entry key="Markdown" value="1074" />
           <entry key="PLAIN_TEXT" value="19" />
-          <entry key="YAML" value="28" />
+          <entry key="YAML" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="7" />
           <entry key="md" value="30" />
-          <entry key="yml" value="2" />
+          <entry key="yml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="7" />
           <entry key="Markdown" value="30" />
-          <entry key="YAML" value="2" />
+          <entry key="YAML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
@@ -99,14 +91,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_code/2018-da-plugins.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="381">
-                <caret line="25" column="66" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
+              <first_editor relative-caret-position="347">
+                <caret line="29" column="163" selection-start-line="29" selection-start-column="163" selection-end-line="29" selection-end-column="163" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -172,11 +173,11 @@
         <option value="$PROJECT_DIR$/_talks/2018-06-20-containers-webinar.md" />
         <option value="$PROJECT_DIR$/_talks/2018-09-20-release-management-webinar.md" />
         <option value="$PROJECT_DIR$/_talks/2018-10-18-continuous-delivery-webinar.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_templates/alm-capability-assessment.md" />
         <option value="$PROJECT_DIR$/_templates/alm-governance-template.md" />
         <option value="$PROJECT_DIR$/_templates/alm-vision-and-scope.md" />
         <option value="$PROJECT_DIR$/_code/2018-da-plugins.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -234,7 +235,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542883642487" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542883924191" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -307,7 +308,7 @@
       <workItem from="1542787937149" duration="11249000" />
       <workItem from="1542806279014" duration="5860000" />
       <workItem from="1542825983336" duration="703000" />
-      <workItem from="1542882549712" duration="987000" />
+      <workItem from="1542882549712" duration="1374000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Structure">
       <created>1542730679466</created>
@@ -624,11 +625,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542878758894</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Talks update">
+      <created>1542883751581</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1542883751581</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24188000" />
+    <option name="totallyTimeSpent" value="24575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -954,13 +962,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="943">
-          <caret line="224" column="14" selection-start-line="224" selection-start-column="14" selection-end-line="224" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_templates/alm-capability-assessment.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -994,10 +995,17 @@
     <entry file="file://$PROJECT_DIR$/_code/2018-da-plugins.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="381">
-            <caret line="25" column="66" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
+          <first_editor relative-caret-position="347">
+            <caret line="29" column="163" selection-start-line="29" selection-start-column="163" selection-end-line="29" selection-end-column="163" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
         </state>
       </provider>
     </entry>
