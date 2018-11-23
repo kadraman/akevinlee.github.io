@@ -10,46 +10,45 @@ location: "London, UK"
 
 This is a collection of plugins for Micro Focus [Deployment Automation](https://www.microfocus.com/products/deployment-automation/)
 
-##### Micro Focus UFT
+**Note**: These plugins are not endorsed or supported by Micro Focus in any way and provided according to this site's 
+<a href="https://termsfeed.com/disclaimer/50dc0c008a7c5d501cbcc4f3eed0f03d">disclaimer</a>.
+
+### Micro Focus UFT
 A plugin to execute Micro Focus [Unified Function Testing](https://software.microfocus.com/en-us/products/unified-functional-automated-testing/overview) (UFT) scenarios from the filesystem (either standalone or via ALM)<br/>
 [Download](https://github.com/sda-community-plugins/MicroFocus-UFT/raw/master/release/MicroFocus-UFT_6.2_1_dev.zip) | [Visit on GitHub](https://github.com/sda-community-plugins/MicroFocus-UFT)
 
-##### Amazon EBS
+### Amazon EBS
 A plugin to deploy an application into an [Amazon Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) (EBS) environment<br/>
 [Download](https://github.com/sda-community-plugins/AmazonEBS/raw/master/release/AmazonEBS_6.2_3_dev.zip) | [Visit on GitHub](https://github.com/sda-community-plugins/AmazonEBS)
 
-##### Maven Build
+### Maven Build
 A plugin to execute a [Maven](https://maven.apache.org/) build script<br/>
 [Download](https://github.com/sda-community-plugins/MavenBuild/raw/master/release/MavenBuild_6.2_1_dev.zip) | [Visit on GitHub](https://github.com/sda-community-plugins/MavenBuild)
 
-##### Micro Focus OO
-A plugin to execute Micro Focus [Operations Orchestration](https://software.microfocus.com/en-us/products/operations-orchestration-it-process-automation/overview) (OO) flow<br/>
+### Micro Focus OO
+A plugin to execute Micro Focus [Operations Orchestration](https://software.microfocus.com/en-us/products/operations-orchestration-it-process-automation/overview) (OO) flows<br/>
 [Download]() | [Visit on GitHub](https://github.com/sda-community-plugins/MicroFocus-OO)
 
-##### Micro Focus SRL
+### Micro Focus SRL
 A plugin to execute a Micro Focus [StormRunner Load](https://software.microfocus.com/en-us/products/stormrunner-load-agile-cloud-testing/overview) (SRL) load tests<br/>
 [Download]() | [Visit on GitHub](https://github.com/sda-community-plugins/StormRunner-Load)
 
-##### SSH
-SSH Plugin<br/>
+### SSH
+A plugin to execute remote commands via SSH, including uploading and downloading files<br/>
 [Download](https://github.com/sda-community-plugins/SSH/raw/master/release/SSH_6.1.4_1_dev.zip) | [Visit on Github](https://github.com/sda-community-plugins/SSH)
 
-##### Docker Compose
-Docker Compose Plugin<br/>
+### Docker Compose
+A plugin to execute Docker "compose" commands including rewriting a compose file based on component versions<br/>
 [Download](https://github.com/sda-community-plugins/DockerCompose/raw/master/release/DockerCompose_6.1.3_5_dev.zip) | [Visit on Github](https://github.com/sda-community-plugins/DockerCompose)
 
-##### Ansible
-Ansible Plugin<br/>
+### Ansible
+A plugin to execute Ansible playbooks<br/>
 [Download](https://github.com/sda-community-plugins/Ansible/blob/master/release/Ansible_6.1.2_1_dev.zip) | [Visit on Github](https://github.com/sda-community-plugins/Ansible)
 
-##### Ansible
-Ansible Plugin<br/>
-[Download](https://github.com/sda-community-plugins/Ansible/blob/master/release/Ansible_6.1.2_1_dev.zip) | [Visit on Github](https://github.com/sda-community-plugins/Ansible)
+### Kubernetes
+A plugin to execute Kubernetes "kubectl" commands<br/>
+[Download](https://github.com/sda-community-plugins/Kubernetes/raw/master/release/Kubernetes_6.1.2_1_dev.zip) | [Visit on Github](https://github.com/sda-community-plugins/Kubernetes)
 
-##### Kubernetes
-Kubernets Plugin<br/>
-[Download](https://github.com/sda-community-plugins/Kubernetes) | [Visit on Github](https://github.com/sda-community-plugins/Kubernetes/raw/master/release/Kubernetes_6.1.2_1_dev.zip)
-
-
-
-
+### Docker Swarm
+A plugin to execute Docker "swarm" commands<br/>
+[Download](https://github.com/sda-community-plugins/DockerSwarm/raw/master/release/DockerSwarm_6.1.3_1_dev.zip) | [Visit on Github](https://github.com/sda-community-plugins/DockerSwarm)

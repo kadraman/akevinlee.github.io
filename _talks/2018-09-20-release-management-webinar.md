@@ -15,4 +15,4 @@ Find out what the transition to _DevOps_ is all about and why and where _Release
  - Release Management Good Practices - what “good” Release Management look likes via some example practices being adopted by complex multi–modal organizations?
  - Demonstration of the Micro Focus solution.
 
-[Watch Recording](/files/mp4/2018-09-20_Release_Management_Webinar.mp4) | [Download PDF](/files/pdf/Micro%20Focus%20-%20Release%20Management%20for%20the%20multi-modal%20Enterprise.pdf)
+[Watch Recording](https://attendee.gotowebinar.com/recording/7787512500561818114?assets=true) | [Download PDF](/files/pdf/Micro%20Focus%20-%20Release%20Management%20for%20the%20multi-modal%20Enterprise.pdf)

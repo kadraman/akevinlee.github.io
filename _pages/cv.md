@@ -1,15 +1,15 @@
 ---
 layout: archive
-title: "My Resume"
-permalink: /resume/
+title: "Curriculum vitae"
+permalink: /cv/
 author_profile: true
+redirect_from: 
+  - /resume/
 ---
 
 {% include base_path %}
-<br/> 
 
-Work experience
-======
+## Work experience
 
 ### Micro Focus (May 2016 - Present)
  - _DevOps Solutions Architect_
@@ -43,8 +43,8 @@ Work experience
  - _Software Developer_
  - VB, C++, Java and Web Development, Integration Testing, Unix SystemsAdministration.
   
-Skills
-======
+## Skills
+
 * **Application Development** - strong development background in Implementation (Java, J2EE, Web), Software Configuration Management, Build Management, Deployment Management and Quality Assurance.
 * **DevOps** - broad understanding and implementation of DevOps practices, including Continuous Delivery, Self Service and Release Trains.
 * **Solution Consulting** - business to technical solutions.
@@ -52,21 +52,20 @@ Skills
 * **Technical Architecture** - defining and implementing architectural solutions for Application Development, DevOps, Continuous Delivery and Release Management.
 * **Process Improvement** - improving business and application development processes for customers.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
+## Publications
+
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
+## Presentations
+
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Education
-======
+## Education
 
 ### University of East Anglia
-Bsc, Computer Science · (1990 - 1993)
+Bsc, Computer Science (1990 - 1993)
 
