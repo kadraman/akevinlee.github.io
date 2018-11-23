@@ -10,4 +10,4 @@ location: "London, UK"
 
 DevSecOps: How to integrate Security & Compliance into your Continuous Delivery pipelines
 
-[Watch Recording]() | [Download PDF](/files/Micro%20Focus%20-%20DevSecOps%20and%20Continuous%20Delivery.pdf)
+[Watch Recording](https://attendee.gotowebinar.com/recording/9211018319202283010?assets=true) | [Download PDF](/files/Micro%20Focus%20-%20DevSecOps%20and%20Continuous%20Delivery.pdf)
