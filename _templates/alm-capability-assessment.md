@@ -5,4 +5,4 @@ collection: templates
 ---
 
 A spreadsheet that you can use to establish your own current and future requirements for ALM.<br/>
-Download [Excel](/files/ALM-Capability-Assessment.xls)
+Download [Excel](/files/misc/ALM-Capability-Assessment.xls)

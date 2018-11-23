@@ -5,4 +5,4 @@ collection: templates
 ---
 
 An example of how application development, project management and service management processes can interrelate to provide a governance framework.<br/>
-Download [Visio](/files/ALM-Governance-Framework.vsd) | Download [PDF](/files/ALM-Governance-Framework.pdf)
+Download [Visio](/files/misc/ALM-Governance-Framework.vsd) | Download [PDF](/files/pdf/ALM-Governance-Framework.pdf)
