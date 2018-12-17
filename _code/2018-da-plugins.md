@@ -13,6 +13,10 @@ This is a collection of plugins for Micro Focus [Deployment Automation](https://
 **Note**: These plugins are not endorsed or supported by Micro Focus in any way and provided according to this site's 
 <a href="https://termsfeed.com/disclaimer/50dc0c008a7c5d501cbcc4f3eed0f03d">disclaimer</a>.
 
+### Micro Focus Deployment Automation Plugin Template
+A fully documented template you can use to create your own plugins from.<br/>
+[Visit on GitHub](https://github.com/sda-community-plugins/plugin-template)
+
 ### Micro Focus UFT
 A plugin to execute Micro Focus [Unified Function Testing](https://software.microfocus.com/en-us/products/unified-functional-automated-testing/overview) (UFT) scenarios from the filesystem (either standalone or via ALM)<br/>
 [Download](https://github.com/sda-community-plugins/MicroFocus-UFT/raw/master/release/MicroFocus-UFT_6.2_1_dev.zip) | [Visit on GitHub](https://github.com/sda-community-plugins/MicroFocus-UFT)
