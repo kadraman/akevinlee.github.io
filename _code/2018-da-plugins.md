@@ -17,9 +17,13 @@ This is a collection of plugins for Micro Focus [Deployment Automation](https://
 A fully documented template you can use to create your own plugins from.<br/>
 [Visit on GitHub](https://github.com/sda-community-plugins/plugin-template)
 
-### Micro Focus UFT
-A plugin to execute Micro Focus [Unified Function Testing](https://software.microfocus.com/en-us/products/unified-functional-automated-testing/overview) (UFT) scenarios from the filesystem (either standalone or via ALM)<br/>
-[Download](https://github.com/sda-community-plugins/MicroFocus-UFT/raw/master/release/MicroFocus-UFT_6.2_1_dev.zip) | [Visit on GitHub](https://github.com/sda-community-plugins/MicroFocus-UFT)
+### Micro Focus Unified Functional Testing
+A plugin to execute Micro Focus [Unified Functional Testing](https://software.microfocus.com/en-us/products/unified-functional-automated-testing/overview) (UFT) scenarios from the filesystem (either standalone or via ALM)<br/>
+[Download](https://github.com/sda-community-plugins/MicroFocus-UFT/raw/master/release/MicroFocus-UFT_6.2_1_SNAPSHOT.zip) | [Visit on GitHub](https://github.com/sda-community-plugins/MicroFocus-UFT)
+
+### Micro Focus StormRunner Load
+A plugin to execute a Micro Focus [StormRunner Load](https://software.microfocus.com/en-us/products/stormrunner-load-agile-cloud-testing/overview) (SRL) load tests<br/>
+[Download](https://github.com/sda-community-plugins/MicroFocus-SRL/raw/master/release/MicroFocus-SRL_6.2_1_SNAPSHOT.zip) | [Visit on GitHub](https://github.com/sda-community-plugins/MicroFocus-SRL)
 
 ### Amazon EBS
 A plugin to deploy an application into an [Amazon Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) (EBS) environment<br/>
@@ -32,10 +36,6 @@ A plugin to execute a [Maven](https://maven.apache.org/) build script<br/>
 ### Micro Focus OO
 A plugin to execute Micro Focus [Operations Orchestration](https://software.microfocus.com/en-us/products/operations-orchestration-it-process-automation/overview) (OO) flows<br/>
 [Download]() | [Visit on GitHub](https://github.com/sda-community-plugins/MicroFocus-OO)
-
-### Micro Focus SRL
-A plugin to execute a Micro Focus [StormRunner Load](https://software.microfocus.com/en-us/products/stormrunner-load-agile-cloud-testing/overview) (SRL) load tests<br/>
-[Download]() | [Visit on GitHub](https://github.com/sda-community-plugins/StormRunner-Load)
 
 ### SSH
 A plugin to execute remote commands via SSH, including uploading and downloading files<br/>
