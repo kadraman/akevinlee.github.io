@@ -10,7 +10,7 @@ location: "London, UK"
 
 This is a collection of plugins for Micro Focus [Deployment Automation](https://www.microfocus.com/products/deployment-automation/)
 
-**Note**: These plugins are not endorsed or supported by Micro Focus in any way and provided according to this site's 
+**Note**: These plugins are not endorsed or supported by Micro Focus in any way and are provided according to this site's 
 <a href="https://termsfeed.com/disclaimer/50dc0c008a7c5d501cbcc4f3eed0f03d">disclaimer</a>.
 
 ### Micro Focus Deployment Automation Plugin Template
