@@ -25,6 +25,10 @@ A plugin to execute Micro Focus [Unified Functional Testing](https://software.mi
 A plugin to execute a Micro Focus [StormRunner Load](https://software.microfocus.com/en-us/products/stormrunner-load-agile-cloud-testing/overview) (SRL) load tests<br/>
 [Download](https://github.com/sda-community-plugins/MicroFocus-SRL/raw/master/release/MicroFocus-SRL_6.2_1_SNAPSHOT.zip) | [Visit on GitHub](https://github.com/sda-community-plugins/MicroFocus-SRL)
 
+### Micro Focus StormRunner Functional
+A plugin to execute a Micro Focus [StormRunner Functional](https://www.microfocus.com/en-us/products/functional-testing-as-a-service/overview) (SRF) functional tests<br/>
+[Download](https://github.com/sda-community-plugins/MicroFocus-SRF/raw/master/release/MicroFocus-SRF_6.2_1_SNAPSHOT.zip) | [Visit on GitHub](https://github.com/sda-community-plugins/MicroFocus-SRF)
+
 ### Amazon EBS
 A plugin to deploy an application into an [Amazon Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) (EBS) environment<br/>
 [Download](https://github.com/sda-community-plugins/AmazonEBS/raw/master/release/AmazonEBS_6.2_3_dev.zip) | [Visit on GitHub](https://github.com/sda-community-plugins/AmazonEBS)
