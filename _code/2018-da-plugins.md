@@ -29,6 +29,10 @@ A plugin to execute a Micro Focus [StormRunner Load](https://software.microfocus
 A plugin to execute a Micro Focus [StormRunner Functional](https://www.microfocus.com/en-us/products/functional-testing-as-a-service/overview) (SRF) functional tests<br/>
 [Download](https://github.com/sda-community-plugins/MicroFocus-SRF/raw/master/release/MicroFocus-SRF_6.2_1_SNAPSHOT.zip) | [Visit on GitHub](https://github.com/sda-community-plugins/MicroFocus-SRF)
 
+### Micro Focus LoadRunner
+A plugin to execute Micro Focus [LoadRunner](https://www.microfocus.com/en-us/products/loadrunner-load-testing/overview) performance tests<br/>
+[Download](https://github.com/sda-community-plugins/MicroFocus-LoadRunner/raw/master/release/MicroFocus-LoadRunner_6.2_1_SNAPSHOT.zip) | [Visit on GitHub](https://github.com/sda-community-plugins/MicroFocus-LoadRunner)
+
 ### Amazon EBS
 A plugin to deploy an application into an [Amazon Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) (EBS) environment<br/>
 [Download](https://github.com/sda-community-plugins/AmazonEBS/raw/master/release/AmazonEBS_6.2_3_dev.zip) | [Visit on GitHub](https://github.com/sda-community-plugins/AmazonEBS)
@@ -39,7 +43,7 @@ A plugin to execute a [Maven](https://maven.apache.org/) build script<br/>
 
 ### Micro Focus OO
 A plugin to execute Micro Focus [Operations Orchestration](https://software.microfocus.com/en-us/products/operations-orchestration-it-process-automation/overview) (OO) flows<br/>
-[Download]() | [Visit on GitHub](https://github.com/sda-community-plugins/MicroFocus-OO)
+[Download](https://github.com/sda-community-plugins/MicroFocus-OO/raw/master/release/MicroFocus-OO_6.2_1_SNAPSHOT.zip) | [Visit on GitHub](https://github.com/sda-community-plugins/MicroFocus-OO)
 
 ### SSH
 A plugin to execute remote commands via SSH, including uploading and downloading files<br/>
